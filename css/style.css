@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+#plostina {
+  margin-top: 155px;
+}
+#r {
+  margin-left: 160px;
+  margin-top: 123px;
+  width: 80px;
+  position: relative;
+}
+.imgC {
+  position: absolute;
+}
+.btn {
+  position: relative;
+  border-radius: 50%;
+  background: #6592cf;
+  border: 1px solid black;
+  color: #eee;
+}
+#plostina {
+  margin-left: 120px;
+}
+#perimetar {
+  margin-top: 21px;
+  margin-left: 120px;
+}
+.p {
+  position: absolute;
+  margin-top: 155px;
+  margin-left: 10px;
+}
+.l {
+  position: absolute;
+  margin-left: 6px;
+}
